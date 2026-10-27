@@ -1,0 +1,23 @@
+{
+  "rules": {
+    "config": {
+      ".read": true,
+      ".write": false
+    },
+    "parties": {
+      ".read": true,
+      ".write": false
+    },
+    "votes_aggregate": {
+      ".read": true,
+      ".write": true
+    },
+    "voters": {
+      ".read": true,
+      "$voterId": {
+        ".write": "!data.exists()",
+        ".validate": "newData.child('hasVoted').val() == true"
+      }
+    }
+  }
+}

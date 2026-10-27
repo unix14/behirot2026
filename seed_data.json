@@ -1,0 +1,257 @@
+{
+  "config": {
+    "startTime": 1793048400000,
+    "endTime": 1793127600000
+  },
+  "parties": {
+    "likud": {
+      "ballotLetter": "מחל",
+      "name": "הליכוד בהנהגת בנימין נתניהו לראשות הממשלה",
+      "platform": "מפלגת שלטון לאומית-ליברלית. ביטחון לאומי, כלכלת שוק חופשי, ריבונות וחיזוק מעמד ישראל בעולם.",
+      "website": "https://likud.org.il",
+      "platformUrl": "https://www.likud.org.il/#values",
+      "candidatesPdfUrl": "https://www.idi.org.il/media/32314/הליכוד.pdf",
+      "idiUrl": "https://www.idi.org.il/policy/parties-and-elections/parties/likud/",
+      "logoUrl": "https://www.idi.org.il/media/31362/הליכוד-לוגו-1290-על-860.png",
+      "keyFigures": [
+        "בנימין נתניהו",
+        "יואב קיש",
+        "אמיר אוחנה",
+        "יריב לוין",
+        "אלי כהן"
+      ],
+      "bloc": "coalition",
+      "color": "#1565C0"
+    },
+    "beyachad": {
+      "ballotLetter": "רק",
+      "name": "ביחד בראשות נפתלי בנט",
+      "platform": "רשימת מרכז-ימין מאחדת. שיקום הכלכלה, ביטחון לאומי יציב, אחדות חברתית והסכמות רחבות.",
+      "website": "https://be-yahad.org.il",
+      "platformUrl": "https://be-yahad.org.il/plans/?bennett_plans_cat=198%2C199%2C203%2C204",
+      "candidatesPdfUrl": "https://www.idi.org.il/media/32309/ביחד.pdf",
+      "idiUrl": "https://www.idi.org.il/policy/parties-and-elections/parties/beyachad/",
+      "logoUrl": "https://www.idi.org.il/media/32300/ביחד-לוגו-1290-על-860.png",
+      "keyFigures": [
+        "נפתלי בנט",
+        "יאיר לפיד",
+        "מתן כהנא",
+        "מירב כהן"
+      ],
+      "bloc": "opposition",
+      "color": "#0284C7"
+    },
+    "yashar": {
+      "ballotLetter": "דרך",
+      "name": "ישר! עם איזנקוט לראשות הממשלה מאחדים את ישראל",
+      "platform": "ממלכתיות, יושרה ציבורית, תפיסת ביטחון לאומית כוללת וחיזוק השירות והשוויון בנטל.",
+      "website": "https://yasharwitheisenkot.com",
+      "platformUrl": "https://yasharwitheisenkot.com/principles/",
+      "candidatesPdfUrl": "https://www.idi.org.il/media/32324/ישר.pdf",
+      "idiUrl": "https://www.idi.org.il/policy/parties-and-elections/parties/yashar/",
+      "logoUrl": "https://www.idi.org.il/media/30812/ישר-לוגו-1290-על-860.png",
+      "keyFigures": [
+        "גדי איזנקוט",
+        "חילי טרופר",
+        "אורית פרקש-הכהן",
+        "מתן וילנאי"
+      ],
+      "bloc": "opposition",
+      "color": "#2563EB"
+    },
+    "democrats": {
+      "ballotLetter": "אמת",
+      "name": "הדמוקרטים בראשות יאיר גולן",
+      "platform": "איחוד העבודה ומרצ. שמאל ציוני ודמוקרטי, עצמאות מערכת המשפט, צדק חברתי, שוויון ושלום.",
+      "website": "https://democrats.org.il",
+      "platformUrl": "https://yes.democrats.org.il",
+      "candidatesPdfUrl": "https://www.idi.org.il/media/32313/הדמוקרטים.pdf",
+      "idiUrl": "https://www.idi.org.il/policy/parties-and-elections/parties/democrats/",
+      "logoUrl": "https://www.idi.org.il/media/32301/הדמוקרטים-לוגו-1290-על-860.png",
+      "keyFigures": [
+        "יאיר גולן",
+        "גלעד קריב",
+        "נעמה לזימי",
+        "מוסי רז"
+      ],
+      "bloc": "opposition",
+      "color": "#DC2626"
+    },
+    "religious_zionism": {
+      "ballotLetter": "ט",
+      "name": "הציונות הדתית וזהות בראשות סמוטריץ ופייגלין",
+      "platform": "ימין אידאולוגי דתי-לאומי. שלמות הארץ, חיזוק ההתיישבות, זהות יהודית ורפורמות כלכליות.",
+      "website": "https://zionutdatit.org.il",
+      "platformUrl": "https://zionutdatit.org.il/%D7%9E%D7%A6%D7%A2-%D7%94%D7%9E%D7%A4%D7%9C%D7%92%D7%94/",
+      "candidatesPdfUrl": "https://www.idi.org.il/media/32318/הציונות-הדתית.pdf",
+      "idiUrl": "https://www.idi.org.il/policy/parties-and-elections/parties/the-religious-zionism/",
+      "logoUrl": "https://www.idi.org.il/media/32302/הציונות-הדתית-לוגו-1290-על-860.png",
+      "keyFigures": [
+        "בצלאל סמוטריץ",
+        "משה פייגלין",
+        "אופיר סופר",
+        "אורית סטרוק",
+        "שמחה רוטמן"
+      ],
+      "bloc": "coalition",
+      "color": "#0284C7"
+    },
+    "otzma_yehudit": {
+      "ballotLetter": "ב",
+      "name": "עוצמה יהודית בראשות איתמר בן גביר",
+      "platform": "ימין לאומי תקיף. משילות, ביטחון פנים, שינוי הוראות פתיחה באש וחיזוק הריבונות.",
+      "website": "https://ozma-yehudit.com",
+      "platformUrl": "https://ozma-yehudit.com",
+      "candidatesPdfUrl": "https://www.idi.org.il/media/32332/עוצמה-יהודית.pdf",
+      "idiUrl": "https://www.idi.org.il/policy/parties-and-elections/parties/otzma-yehudit/",
+      "logoUrl": "https://www.idi.org.il/media/30814/עוצמה-יהודית-לוגו-1290-על-860.png",
+      "keyFigures": [
+        "איתמר בן גביר",
+        "יצחק וסרלאוף",
+        "אלמוג כהן",
+        "צביקה פוגל"
+      ],
+      "bloc": "coalition",
+      "color": "#C0392B"
+    },
+    "shas": {
+      "ballotLetter": "שס",
+      "name": "ש״ס התאחדות הספרדים",
+      "platform": "תנועה ספרדית תורנית. ערבות הדדית, סיוע סוציאלי לשכבות החלשות, מסורת ישראל וחינוך תורני.",
+      "website": "https://shas.org.il",
+      "platformUrl": "https://shas.org.il",
+      "candidatesPdfUrl": "https://www.idi.org.il/media/32339/שס.pdf",
+      "idiUrl": "https://www.idi.org.il/policy/parties-and-elections/parties/shas/",
+      "logoUrl": "https://www.idi.org.il/media/30815/שס-לוגו-1290-על-860.png",
+      "keyFigures": [
+        "אריה דרעי",
+        "יעקב מרגי",
+        "מיכאל מלכיאלי",
+        "חיים ביטון"
+      ],
+      "bloc": "coalition",
+      "color": "#334155"
+    },
+    "yahadut_hatorah": {
+      "ballotLetter": "ג",
+      "name": "יהדות התורה והשבת אגודת ישראל - דגל התורה",
+      "platform": "יהדות חרדית אשכנזית. שימור מעמד לומדי התורה, קדושת השבת, סטטוס-קוו דתי ודיור בר-השגה.",
+      "website": "https://utj.org.il",
+      "platformUrl": "https://utj.org.il",
+      "candidatesPdfUrl": "https://www.idi.org.il/media/32323/יהדות-התורה.pdf",
+      "idiUrl": "https://www.idi.org.il/policy/parties-and-elections/parties/yahadut-hatorah/",
+      "logoUrl": "https://www.idi.org.il/media/30808/יהדות-התורה-לוגו-1290-על-860.png",
+      "keyFigures": [
+        "יצחק גולדקנופף",
+        "משה גפני",
+        "מאיר פרוש",
+        "יעקב אשר"
+      ],
+      "bloc": "coalition",
+      "color": "#1E3A8A"
+    },
+    "yisrael_beytenu": {
+      "ballotLetter": "ל",
+      "name": "ישראל ביתנו בראשות ליברמן",
+      "platform": "ימין חילוני וליברלי. שוויון מלא בחובות ובזכויות, גיוס לכולם, ביטחון תקיף וכלכלה צומחת.",
+      "website": "https://beytenu.org.il",
+      "platformUrl": "https://beytenu.org.il/party-platform/",
+      "candidatesPdfUrl": "https://www.idi.org.il/media/32325/ישראל-ביתנו.pdf",
+      "idiUrl": "https://www.idi.org.il/policy/parties-and-elections/parties/yisrael-beytenu/",
+      "logoUrl": "https://www.idi.org.il/media/32299/ישראל-ביתנו-לוגו-1290-על-860.png",
+      "keyFigures": [
+        "אביגדור ליברמן",
+        "עודד פורר",
+        "יוליה מלינובסקי",
+        "אלכס קושניר"
+      ],
+      "bloc": "opposition",
+      "color": "#0288D1"
+    },
+    "raam": {
+      "ballotLetter": "עם",
+      "name": "רע״מ - הרשימה הערבית המאוחדת",
+      "platform": "השתלבות אזרחית, מאבק בפשיעה ובאלימות בחברה הערבית, תכנון ובנייה ופיתוח תשתיות.",
+      "website": "https://raam.org.il",
+      "platformUrl": "https://raam.org.il",
+      "candidatesPdfUrl": "https://www.idi.org.il/media/32337/רעמ.pdf",
+      "idiUrl": "https://www.idi.org.il/policy/parties-and-elections/parties/raam/",
+      "logoUrl": "https://www.idi.org.il/media/30805/%D7%A8%D7%A2%D7%9E-%D7%9C%D7%95%D7%92%D7%95-1290-%D7%A2%D7%9C-860.png",
+      "keyFigures": [
+        "מנסור עבאס",
+        "וליד טאהא",
+        "אימאן חטיב-יאסין",
+        "יאסר חוג'יראת"
+      ],
+      "bloc": "undecided",
+      "color": "#15803D"
+    },
+    "joint_list": {
+      "ballotLetter": "ודם",
+      "name": "הרשימה המשותפת (חד״ש-תע״ל-בל״ד)",
+      "platform": "חזית לשלום, שוויון לאומי ואזרחי מלא, סיום הכיבוש, צדק חברתי וזכויות עובדים.",
+      "website": "https://jointlist.org.il",
+      "platformUrl": "https://jointlist.org.il/he/economic-plan/",
+      "candidatesPdfUrl": "https://www.idi.org.il/media/32320/הרשימה-המשותפת.pdf",
+      "idiUrl": "https://www.idi.org.il/policy/parties-and-elections/parties/joint-arab-list/",
+      "logoUrl": "https://www.idi.org.il/media/32482/%D7%94%D7%9E%D7%A9%D7%95%D7%AA%D7%A4%D7%AA-%D7%9C%D7%95%D7%92%D7%95-1290-%D7%A2%D7%9C-860.png",
+      "keyFigures": [
+        "איימן עודה",
+        "אחמד טיבי",
+        "סאמי אבו שחאדה",
+        "עאידה תומא סלימאן"
+      ],
+      "bloc": "opposition",
+      "color": "#BE185D"
+    },
+    "miluimniks": {
+      "ballotLetter": "די",
+      "name": "המילואימניקים והכלכלית בראשות יועז הנדל וירון זליכה",
+      "platform": "מפלגת משרתי המילואים ויוקר המחיה. עדיפות למשרתים, פירוק מונופולים, ורפורמות כלכליות וחברתיות.",
+      "website": "https://www.themiluimnikim.org.il",
+      "platformUrl": "https://www.themiluimnikim.org.il/platform/#platform-base",
+      "candidatesPdfUrl": "https://www.idi.org.il/media/32315/המילואימניקים-והכלכלית.pdf",
+      "idiUrl": "https://www.idi.org.il/policy/parties-and-elections/parties/miluimniks/",
+      "logoUrl": "https://www.idi.org.il/media/32483/%D7%94%D7%9E%D7%99%D7%9C%D7%95%D7%90%D7%99%D7%9E%D7%A0%D7%99%D7%A7%D7%99%D7%9D-%D7%95%D7%94%D7%9B%D7%9C%D7%9B%D7%9C%D7%99%D7%AA-%D7%9C%D7%95%D7%92%D7%95-1290-%D7%A2%D7%9C-860.png",
+      "keyFigures": [
+        "יועז הנדל",
+        "פרופ' ירון זליכה",
+        "הדר מילר"
+      ],
+      "bloc": "opposition",
+      "color": "#4D7C0F"
+    },
+    "amcha_yisrael": {
+      "ballotLetter": "ך",
+      "name": "עמך ישראל בראשות עופר וינטר",
+      "platform": "ימין מסורתי חברתי. חיזוק הזהות היהודית, חיזוק הפריפריה, ערבות הדדית ומשילות.",
+      "website": "https://amchaisrael.co.il",
+      "platformUrl": "https://amchaisrael.co.il/foundations",
+      "candidatesPdfUrl": "https://www.idi.org.il/media/32333/עמך-ישראל.pdf",
+      "idiUrl": "https://www.idi.org.il/policy/parties-and-elections/parties/amcha-yisrael/",
+      "logoUrl": "https://www.idi.org.il/media/32290/%D7%A2%D7%9E%D7%9A-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%9C%D7%95%D7%92%D7%95-1290-%D7%A2%D7%9C-860.png",
+      "keyFigures": [
+        "עופר וינטר",
+        "אסתר ירמיאס",
+        "עמיחי שיקלי"
+      ],
+      "bloc": "coalition",
+      "color": "#7E22CE"
+    }
+  },
+  "votes_aggregate": {
+    "yashar": 216,
+    "likud": 196,
+    "beyachad": 137,
+    "joint_list": 88,
+    "democrats": 78,
+    "otzma_yehudit": 78,
+    "yahadut_hatorah": 78,
+    "yisrael_beytenu": 78,
+    "shas": 69,
+    "religious_zionism": 68,
+    "raam": 50,
+    "miluimniks": 40,
+    "amcha_yisrael": 24
+  }
+}

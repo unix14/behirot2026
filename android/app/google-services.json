@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "529901760655",
+    "firebase_url": "https://bhirot2026-default-rtdb.firebaseio.com",
+    "project_id": "bhirot2026",
+    "storage_bucket": "bhirot2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529901760655:android:dd9d472f542a126d92c0fa",
+        "android_client_info": {
+          "package_name": "com.behirot.behirot2026"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzsAWEQa70sbUrbKzeIOURjeZ5zyK7JNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
